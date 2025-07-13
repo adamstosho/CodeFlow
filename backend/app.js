@@ -36,8 +36,8 @@ app.use(cors({
 // Security middlewares
 app.use(helmet());
 app.use(rateLimit({
-  windowMs: 15 * 60 * 1000, // 15 minutes
-  max: 100, // limit each IP to 100 requests per windowMs
+  windowMs: 15 * 60 * 1000, 
+  max: 100, 
 }));
 
 // Body parser
@@ -52,7 +52,7 @@ const swaggerOptions = {
 if (process.env.NODE_ENV === 'production') {
   swaggerOptions.definition.servers = [
     {
-      url: 'https://codeflow-tb57.onrender.com/api',
+      url: 'https://codeflow-i39a.onrender.com/api',
       description: 'Deployed Server',
     },
   ];

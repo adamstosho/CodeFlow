@@ -2,11 +2,11 @@
 
 A modern web application that converts JavaScript into visual flowcharts using Mermaid.js. Built with React, Node.js, and MongoDB.
 
-## 🎯 Problem Statement
+## Problem Statement
 
 Developers often struggle to understand complex code logic and share their code structure with non-technical stakeholders. Traditional documentation methods are time-consuming and don't provide immediate visual feedback.
 
-## 💡 Solution
+## Solution
 
 CodeFlow automatically analyzes your code and generates interactive flowcharts that visualize:
 - Function calls and control flow
@@ -14,7 +14,7 @@ CodeFlow automatically analyzes your code and generates interactive flowcharts t
 - Return statements and program flow
 - Code structure and logic paths
 
-## 🚀 Real-World Use Cases
+## Real-World Use Cases
 
 - **Code Reviews**: Quickly visualize complex functions for team discussions
 - **Documentation**: Generate visual documentation for legacy code
@@ -24,31 +24,31 @@ CodeFlow automatically analyzes your code and generates interactive flowcharts t
 
 ## ✨ Features
 
-### 🔐 Authentication
+### Authentication
 - Secure user registration and login
 - JWT-based authentication
 - Protected routes and API endpoints
 
-### 📝 Code Conversion
+### Code Conversion
 - **JavaScript Support**: Full AST parsing and flowchart generation
 - **Python Support**: Basic parsing with placeholder implementation (Although it is still in process)
 - **Real-time Preview**: Instant diagram generation as you type
 - **Syntax Highlighting**: Monaco Editor integration for better code editing
 
-### 📊 Diagram Management
+### Diagram Management
 - **Save & Organize**: Store all your diagrams with metadata
 - **Edit & Update**: Modify existing diagrams and regenerate flowcharts
 - **History View**: Access all your previous conversions
 - **Delete**: Remove unwanted diagrams
 
-### 🌐 **Sharing & Collaboration**
+### **Sharing & Collaboration**
 - **Public Sharing**: Make diagrams shareable with unique URLs
 - **Social Media Integration**: Share directly to WhatsApp, Facebook, Twitter, LinkedIn
 - **Email Sharing**: Send diagrams via email
 - **Mobile Native Sharing**: Use device's native sharing options
 - **Copy Link**: One-click link copying with visual feedback
 
-### 🎨 Modern UI/UX
+### Modern UI/UX
 - **Responsive Design**: Works on desktop, tablet, and mobile
 - **Dark/Light Theme**: Tailwind CSS with consistent styling
 - **Interactive Diagrams**: Click and explore flowchart nodes
@@ -73,7 +73,7 @@ CodeFlow automatically analyzes your code and generates interactive flowcharts t
 - **Puppeteer** for diagram generation
 - **Swagger** for API documentation
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 - Node.js (v16 or higher)
@@ -126,7 +126,7 @@ CodeFlow automatically analyzes your code and generates interactive flowcharts t
    - Backend API: http://localhost:5000
    - API Documentation: http://localhost:5000/api-docs
 
-## 📖 Usage
+## Usage
 
 ### Basic Workflow
 1. **Register/Login**: Create an account or sign in
@@ -207,14 +207,14 @@ codeflow/
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - [Mermaid.js](https://mermaid.js.org/) for diagram rendering
 - [Monaco Editor](https://microsoft.github.io/monaco-editor/) for code editing
 - [Tailwind CSS](https://tailwindcss.com/) for styling
 - [Acorn](https://github.com/acornjs/acorn) for JavaScript parsing
 
-## 📞 Support
+##  Support
 
 If you have any questions or need help, please open an issue on GitHub or contact the development team.
 

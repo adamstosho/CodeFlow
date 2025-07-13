@@ -11,7 +11,7 @@
             "description": "Local Development Server"
         },
         {
-            "url": "https://your-deployed-url/api",
+            "url": "https://codeflow-i39a.onrender.com/api",
             "description": "Deployed Server"
         }
     ],
