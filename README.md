@@ -1,6 +1,6 @@
 # CodeFlow - Code to Diagram Converter
 
-A modern web application that converts JavaScript and Python code into visual flowcharts using Mermaid.js. Built with React, Node.js, and MongoDB.
+A modern web application that converts JavaScript into visual flowcharts using Mermaid.js. Built with React, Node.js, and MongoDB.
 
 ## 🎯 Problem Statement
 
@@ -31,7 +31,7 @@ CodeFlow automatically analyzes your code and generates interactive flowcharts t
 
 ### 📝 Code Conversion
 - **JavaScript Support**: Full AST parsing and flowchart generation
-- **Python Support**: Basic parsing with placeholder implementation
+- **Python Support**: Basic parsing with placeholder implementation (Although it is still in process)
 - **Real-time Preview**: Instant diagram generation as you type
 - **Syntax Highlighting**: Monaco Editor integration for better code editing
 
@@ -206,4 +206,5 @@ If you have any questions or need help, please open an issue on GitHub or contac
 
 ---
 
-**Made with ❤️ for the developer community** 
+**Made with ❤️ by ART_Redox for the developer community** 
+**_Powered by DLT Africa_**
