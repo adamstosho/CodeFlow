@@ -41,7 +41,7 @@ CodeFlow automatically analyzes your code and generates interactive flowcharts t
 - **History View**: Access all your previous conversions
 - **Delete**: Remove unwanted diagrams
 
-### 🌐 Sharing & Collaboration
+### 🌐 **Sharing & Collaboration**
 - **Public Sharing**: Make diagrams shareable with unique URLs
 - **Social Media Integration**: Share directly to WhatsApp, Facebook, Twitter, LinkedIn
 - **Email Sharing**: Send diagrams via email
@@ -84,7 +84,7 @@ CodeFlow automatically analyzes your code and generates interactive flowcharts t
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/codeflow.git
+   git clone https://github.com/adamstosho/codeflow.git
    cd codeflow
    ```
 
@@ -135,14 +135,15 @@ CodeFlow automatically analyzes your code and generates interactive flowcharts t
 4. **Save**: Save your diagram to your history
 5. **Share**: Make it public and share with others
 
+**_### Come and Look at the Uniqueness of the Project here_** 
 ### Sharing Diagrams
 1. **Make Public**: Click the eye icon on a diagram card
 2. **Share**: Click the share button to open sharing options
 3. **Choose Platform**: Select your preferred sharing method
 4. **Share Link**: Copy the direct link or use social media integration
 
-## 🔧 API Endpoints
 
+## 🔧 API Endpoints
 ### Authentication
 - `POST /api/auth/signup` - Register new user
 - `POST /api/auth/login` - User login
@@ -159,6 +160,19 @@ CodeFlow automatically analyzes your code and generates interactive flowcharts t
 
 ### Public Sharing
 - `GET /api/diagrams/share/:id` - Access shared diagram
+
+
+##Now Check the Preview of the App 
+
+![screenshot](/frontend/public/6026130143728224889.jpg)
+**Here is the landing page of the app** You can have the preview of the overall app here and the description is also detailed there
+![screenshot](/frontend/public/6026130143728224895.jpg)
+**Here is the dashobard of the app** it also details the pages and the history of the generated diagram
+![screenshot](/frontend/public/6026130143728224899.jpg)
+**Here is the sample of the generated diagram with the javscript code** __Note that the python will be implemented later__
+![screenshot](/frontend/public/6026130143728224900.jpg)
+**This modal shows the link sharing options**. You can actually share the link to different social media from here.
+
 
 ## 🏗️ Project Structure
 
