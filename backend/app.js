@@ -43,6 +43,10 @@ app.use(rateLimit({
 // Body parser
 app.use(express.json());
 
+app.get("/", (req, res) => {
+  res.status(200).json({ message: "Welcome to the API" });
+});
+
 // Swagger Setup
 const swaggerOptions = {
   definition: require('./config/swagger.json'),
