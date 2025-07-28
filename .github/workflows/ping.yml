@@ -10,4 +10,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Ping the Render App
-        run: curl -s https://codeflow-i39a.onrender.com/health
+        run: curl -s https://code-flow-xbqm.vercel.app/health

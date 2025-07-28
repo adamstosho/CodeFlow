@@ -11,7 +11,7 @@
             "description": "Local Development Server"
         },
         {
-            "url": "https://codeflow-i39a.onrender.com/api",
+            "url": "https://code-flow-xbqm.vercel.app/api",
             "description": "Deployed Server"
         }
     ],

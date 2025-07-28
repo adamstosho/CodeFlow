@@ -56,7 +56,7 @@ const swaggerOptions = {
 if (process.env.NODE_ENV === 'production') {
   swaggerOptions.definition.servers = [
     {
-      url: 'https://codeflow-i39a.onrender.com/api',
+      url: 'https://code-flow-xbqm.vercel.app/api',
       description: 'Deployed Server',
     },
   ];
